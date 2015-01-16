@@ -1,0 +1,5 @@
+
+2014-10-20 15:50:47: Could not save XML file -> Could not save marker XML file (E:\College\Web_Dev_Sys_Impl\InstantWP_WebDev2015\iwpserver\htdocs\wordpress/wp-content/uploads/wp-google-maps/1markers.xml) for Map ID 1
+2014-10-20 16:17:37: Could not save XML file -> Could not save marker XML file (E:\College\Web_Dev_Sys_Impl\InstantWP_WebDev2015\iwpserver\htdocs\wordpress/wp-content/uploads/wp-google-maps/1markers.xml) for Map ID 1
+2014-10-20 16:17:39: Could not save XML file -> Could not save marker XML file (E:\College\Web_Dev_Sys_Impl\InstantWP_WebDev2015\iwpserver\htdocs\wordpress/wp-content/uploads/wp-google-maps/1markers.xml) for Map ID 1
+2014-10-20 16:17:41: Could not save XML file -> Could not save marker XML file (E:\College\Web_Dev_Sys_Impl\InstantWP_WebDev2015\iwpserver\htdocs\wordpress/wp-content/uploads/wp-google-maps/1markers.xml) for Map ID 1

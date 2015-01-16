@@ -1,0 +1,14 @@
+/*
+Theme Name:     My Lovely New Theme
+Description:    A fantastic theme
+Author:         admin
+Template:       twentyten
+
+(optional values you can add: Theme URI, Author URI, Version)
+*/
+
+@import url("../twentyten/style.css");
+
+#wrapper{
+	background-color:red;
+}
